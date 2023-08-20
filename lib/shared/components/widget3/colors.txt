@@ -1,0 +1,8 @@
+const Color firstBackColor = Color(0xff193C32);
+const Color secondBackColor = Color(0xff276443);
+const Color thirdBackColor = Color(0xff1AF1A4);
+const Color strongColor = Color(0xff439a97);
+const Color midColor = Color(0xff62b6b7);
+const Color lightColor = Color(0xff97dece);
+const Color verylightColor = Color(0xffcbedd5);
+const Color veryverylightColor = Color(0xfff0fffa);
